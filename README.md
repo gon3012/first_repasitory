@@ -1,2 +1,2 @@
 # first_repasitory
-sample repasitory
+Helo Github~
